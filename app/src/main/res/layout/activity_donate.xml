@@ -14,6 +14,7 @@
         android:layout_height="wrap_content"
         android:text="What you want to donate?"
         android:textSize="35sp"
+        android:justificationMode="inter_word"
         android:textColor="@color/blue"
         android:fontFamily="@font/roboto"/>
 
